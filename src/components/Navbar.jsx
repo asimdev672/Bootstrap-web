@@ -9,7 +9,8 @@ function Navbar() {
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
               <div className="container-fluid">
                 <Link className="navbar-brand " to="#">
-                  <strong className="strong "> Muhammad Asim</strong>
+                  {/* <strong className="strong "> Muhammad Asim</strong> */}
+                  <strong className="strong "> Muhammad Jawad</strong>
                 </Link>
                 <button
                   className="navbar-toggler"
